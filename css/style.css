@@ -28,6 +28,7 @@
 }
 body {
   font-family: 'helvetica_ce_55_romanregular';
+  scroll-behavior: smooth;
 }
 /*for-section-text-start-here*/
 ::selection {
