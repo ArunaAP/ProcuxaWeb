@@ -134,7 +134,7 @@ body {
   background-repeat: no-repeat;
 }
 p {
-  font-size: 13px;
+  font-size: 18px;
   color: #666;
   font-weight: bolder;
   line-height: 25px;
@@ -452,6 +452,9 @@ ul.nav li.active a:before {
 }
 #Literature .heading {
   text-align: center;
+}
+#Literature .container .p {
+  font-size: 20px !important;
 }
 
 /*Problem-stylesheets-include-here*/
